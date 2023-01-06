@@ -30,6 +30,8 @@ SAŁATKI
 Sałatka Cezar 
 Sałatka Grecka
 DESERY
+Ben&Jerry's
+Magnum 
 NAPOJE
 
 
