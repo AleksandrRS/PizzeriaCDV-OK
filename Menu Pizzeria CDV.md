@@ -27,11 +27,11 @@ CAPRICIOSA vega 22zl (mozzarella, oliwa, pieczarki, sos pomidorowy)
 HAWANA vega 21zl(mozzarella, ananas, sos pomidorowy)
 
 SAŁATKI 
-Sałatka Cezar 10zl(sałata, pomidorki cherry, ogórek, kurczak grillowany, ser Grangusto Galbani, sos)
-Sałatka Grecka 12zl(sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos)
+Sałatka Cezar 10zl(sałata, pomidorki cherry, ogórek, kurczak grillowany, ser Grangusto Galbani, sos)230g
+Sałatka Grecka 12zl(sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos)240g
 DESERY
-Ben&Jerry's 12zlCookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd 
-Magnum 11zlAlmond 
+Ben&Jerry's 12zlCookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd 465ml
+Magnum 11zlAlmond 440ml
 NAPOJE
 Pepsi      14zl                   
 Mirinda        14zl            
