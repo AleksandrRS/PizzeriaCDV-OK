@@ -1,6 +1,7 @@
 # Menu 
 
 ## PIZZE
+<img src = "PizzeriaCDV/domowa.jpg" width = 300>
 MARGHERITA (mozzarella, oregano, sos pomidorowy)     20zl
 FUNGI 20zl (mozzarella, pieczarki, sos pomidorowy)
 VESUVIO 22zl(mozzarella, szynka, sos pomidorowy) 
@@ -21,6 +22,7 @@ HOT PEPPERONI 25zl (mozzarella, bekon, salami, jalapeno, cebula, sos pomidorowy)
 FAMILIARE 21zl(mozzarella, bekon, ogórek kiszony, cebula, sos pomidorowy)
 
 ## PIZZE VEGETARIANSKIE
+<img src = "PizzeriaCDV/pizza_wegetarianska1_mobile.jpg" width = 300>
 MARGHERITA vega 20zl (mozzarella, oregano, sos pomidorowy)  
 FUNGI vega 20zl(mozzarella, pieczarki, sos pomidorowy)     
 VESUVIO vega 21zl(mozzarella, parmezan, sos pomidorowy)     
@@ -29,13 +31,15 @@ HAWANA vega 21zl(mozzarella, ananas, sos pomidorowy)
 
 
 ## SAŁATKI 
- 
+ <img src = "PizzeriaCDV/salatki.jpg" width = 300>
 Sałatka Cezar 10zl(sałata, pomidorki cherry, ogórek, kurczak grillowany, ser Grangusto Galbani, sos)230g
 Sałatka Grecka 12zl(sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos)240g
-DESERY
+## DESERY
+<img src = "PizzeriaCDV/deser-na-upalne-dni-30-sprawdzonych-przepisow-na-lato-2455988.jpg" width = 300>
 Ben&Jerry's 12zlCookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd 465ml
 Magnum 11zlAlmond 440ml
 ## NAPOJE 
+<img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
 Pepsi      14zl                   
 Mirinda        14zl            
 7UP               14zl
