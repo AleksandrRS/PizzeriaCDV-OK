@@ -2,24 +2,26 @@
 
 ## PIZZE
 <img src = "PizzeriaCDV/domowa.jpg" width = 300>
-MARGHERITA (mozzarella, oregano, sos pomidorowy)     20zl
-FUNGI 20zl (mozzarella, pieczarki, sos pomidorowy)
-VESUVIO 22zl(mozzarella, szynka, sos pomidorowy) 
-CAPRICIOSA 24zl(mozzarella, szynka, pieczarki, sos pomidorowy) 
-HAWANA 25zl(mozzarella, szynka, ananas, sos pomidorowy) 
-PANCETTA 26zl(mozzarella, bekon, cebula, sos pomidorowy)
-PEPPERONI 27zl(mozzarella, salami, sos pomidorowy) 
-PROSCIUTTO 28zl(mozzarella, szynka parmeńska, rukola, sos pomidorowy)
-CARBONARA 26zl (mozzarella, sos pomidorowy, sos carbonara)  
-POLLO 24zl(mozzarella, gyros z kurczaka, cebula, oliwki, sos pomidorowy)
-TONNO 23zl(mozzarella, tuńczyk, cebula, pieczarki, sos pomidorowy)                 
-WEGETARIAN 25zl (pieczarki, świeży pomidor, brokuły, oliwki)  
-FRUTTI DI MARE 27zl (mozzarella, owoce morza, kapary, cebula, sos pomidorowy)
-QUATTRO FORMAGGI 26zl (mozzarella, feta, camembert, lazur, sos pomidorowy)  
-MEXICANA 24zl(mozzarella, salami, jalapeno, kukurydza, sos pomidorowy) 
-SICILIANA 24zl (mozzarella, szynka, salami, pieczarki, cebula, sos pomidorowy)  
-HOT PEPPERONI 25zl (mozzarella, bekon, salami, jalapeno, cebula, sos pomidorowy) 
-FAMILIARE 21zl(mozzarella, bekon, ogórek kiszony, cebula, sos pomidorowy)
+|   Pizza:                                                                      | cena |
+|-------------------------------------------------------------------------------|------|
+|MARGHERITA  (mozzarella, oregano, sos pomidorowy)                              | 20zl |
+|FUNGI (mozzarella, pieczarki, sos pomidorowy)                                  | 20zl |
+|VESUVIO (mozzarella, szynka, sos pomidorowy)                                   | 22zl |
+|CAPRICIOSA (mozzarella, szynka, pieczarki, sos pomidorowy)                     | 23zl |
+|HAWANA (mozzarella, szynka, ananas, sos pomidorowy)                            | 24zl |
+|PANCETTA (mozzarella, bekon, cebula, sos pomidorowy)                           | 26zl |
+|PEPPERONI (mozzarella, salami, sos pomidorowy)                                 | 25zl |
+|PROSCIUTTO (mozzarella, szynka parmeńska, rukola, sos pomidorowy)              | 22zl |
+|CARBONARA (mozzarella, sos pomidorowy, sos carbonara)                          | 23zl |
+|POLLO (mozzarella, gyros z kurczaka, cebula, oliwki, sos pomidorowy)           | 24zl |
+|TONNO (mozzarella, tuńczyk, cebula, pieczarki, sos pomidorowy)                 | 28zl |
+|WEGETARIAN (pieczarki, świeży pomidor, brokuły, oliwki)                        | 22zl |
+|FRUTTI DI MARE (mozzarella, owoce morza, kapary, cebula, sos pomidorowy)       | 23zl |
+|QUATTRO FORMAGGI (mozzarella, feta, camembert, lazur, sos pomidorowy)          | 23zl |
+|MEXICANA (mozzarella, salami, jalapeno, kukurydza, sos pomidorowy)             | 22zl |
+|SICILIANA (mozzarella, szynka, salami, pieczarki, cebula, sos pomidorowy)      | 25zl |
+|HOT PEPPERONI (mozzarella, bekon, salami, jalapeno, cebula, sos pomidorowy)    | 26zl |
+|FAMILIARE (mozzarella, bekon, ogórek kiszony, cebula, sos pomidorowy)          | 23zl |
 
 ## PIZZE VEGETARIANSKIE
 <img src = "PizzeriaCDV/pizza_wegetarianska1_mobile.jpg" width = 300>
