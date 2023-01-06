@@ -33,5 +33,14 @@ DESERY
 Ben&Jerry's
 Magnum 
 NAPOJE
+Pepsi                         
+Mirinda                    
+7UP               
+Mountain Dew           
+Lipton Ice Tea    
+Sok Toma   
+Warka Radler 0% 
+Piwo: Heineken, Żywiec, Warka
+Red Bull   
 
 
