@@ -26,6 +26,7 @@
 
 ## PIZZE VEGETARIANSKIE
 <img src = "PizzeriaCDV/pizza_wegetarianska1_mobile.jpg" width = 300>
+
 |   Pizza:                                                                      | 30cm |
 |-------------------------------------------------------------------------------|------|
 |MARGHERITA vega (mozzarella, oregano, sos pomidorowy)                          | 20zl |
