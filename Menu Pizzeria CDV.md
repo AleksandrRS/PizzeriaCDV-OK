@@ -27,6 +27,8 @@ CAPRICIOSA vega
 HAWANA vega 
 
 SAŁATKI 
+Sałatka Cezar 
+Sałatka Grecka
 DESERY
 NAPOJE
 
