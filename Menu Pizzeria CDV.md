@@ -58,6 +58,14 @@
 |Pesto zielone                          |   3zl  |
 |Oliwy                                  |   3zl  |
 
+## SOSY
+|   Sosy   :                            |  Cena: |
+|---------------------------------------|--------|
+|Sos pomidorowy                         | 2,50zl |
+|Sos czosnkowy                          | 2,50zl |                        
+|Sos meksykanski                        | 2,50zl |
+|Sos BBQ                                | 2,50zl |
+
 ## NAPOJE 
 <img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
 
