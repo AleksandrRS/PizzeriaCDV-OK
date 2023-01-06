@@ -50,6 +50,14 @@
 |--------------------------------------|--------------------------------------------------------------|------------|--------|
 |Ben&Jerry's                           | Cookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd     |   465ml    |  12zl  |
 |Magnum                                | Almond                                                       |   440ml    |  12zl  |
+
+## DODATKI
+|   Dodatki:                            |  Cena: |
+|---------------------------------------|--------|
+|Pesto czerwone                         |   3zl  |
+|Pesto zielone                          |   3zl  |
+|Oliwy                                  |   3zl  |
+
 ## NAPOJE 
 <img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
 
