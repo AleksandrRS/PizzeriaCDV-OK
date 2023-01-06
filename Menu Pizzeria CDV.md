@@ -38,8 +38,11 @@
 
 ## SAŁATKI 
  <img src = "PizzeriaCDV/salatki.jpg" width = 300>
-Sałatka Cezar 10zl(sałata, pomidorki cherry, ogórek, kurczak grillowany, ser Grangusto Galbani, sos)230g
-Sałatka Grecka 12zl(sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos)240g
+ 
+|   Sałatka:                                                                                          | Waga: |  Cena: |
+|-----------------------------------------------------------------------------------------------------|-------|--------|
+|Sałatka Cezar (sałata, pomidorki cherry, ogórek, kurczak grillowany, ser Grangusto Galbani, sos)     | 230g  |  10zl  |
+|Sałatka Grecka (sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos) | 240g  |  10zl  |
 ## DESERY
 <img src = "PizzeriaCDV/deser-na-upalne-dni-30-sprawdzonych-przepisow-na-lato-2455988.jpg" width = 300>
 Ben&Jerry's 12zlCookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd 465ml
