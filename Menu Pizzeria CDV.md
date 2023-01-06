@@ -1,5 +1,6 @@
-Menu
-PIZZE
+# Menu 
+
+## PIZZE
 MARGHERITA (mozzarella, oregano, sos pomidorowy)     20zl
 FUNGI 20zl (mozzarella, pieczarki, sos pomidorowy)
 VESUVIO 22zl(mozzarella, szynka, sos pomidorowy) 
@@ -19,20 +20,22 @@ SICILIANA 24zl (mozzarella, szynka, salami, pieczarki, cebula, sos pomidorowy)
 HOT PEPPERONI 25zl (mozzarella, bekon, salami, jalapeno, cebula, sos pomidorowy) 
 FAMILIARE 21zl(mozzarella, bekon, ogórek kiszony, cebula, sos pomidorowy)
 
-PIZZE VEGETARIANSKIE
+## PIZZE VEGETARIANSKIE
 MARGHERITA vega 20zl (mozzarella, oregano, sos pomidorowy)  
 FUNGI vega 20zl(mozzarella, pieczarki, sos pomidorowy)     
 VESUVIO vega 21zl(mozzarella, parmezan, sos pomidorowy)     
 CAPRICIOSA vega 22zl (mozzarella, oliwa, pieczarki, sos pomidorowy)    
 HAWANA vega 21zl(mozzarella, ananas, sos pomidorowy)
 
-SAŁATKI 
+
+## SAŁATKI 
+ 
 Sałatka Cezar 10zl(sałata, pomidorki cherry, ogórek, kurczak grillowany, ser Grangusto Galbani, sos)230g
 Sałatka Grecka 12zl(sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos)240g
 DESERY
 Ben&Jerry's 12zlCookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd 465ml
 Magnum 11zlAlmond 440ml
-NAPOJE
+## NAPOJE 
 Pepsi      14zl                   
 Mirinda        14zl            
 7UP               14zl
