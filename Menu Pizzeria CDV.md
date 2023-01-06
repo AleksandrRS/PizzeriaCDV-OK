@@ -45,8 +45,11 @@
 |Sałatka Grecka (sałata, pomidorki cherry, ogórek, ser śródziemnomorski, oliwki czarne, oregano, sos) | 240g  |  10zl  |
 ## DESERY
 <img src = "PizzeriaCDV/deser-na-upalne-dni-30-sprawdzonych-przepisow-na-lato-2455988.jpg" width = 300>
-Ben&Jerry's 12zlCookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd 465ml
-Magnum 11zlAlmond 440ml
+
+|   Desery:                            | Rodzaje                                                      | Pojemność: |  Cena: |
+|--------------------------------------|--------------------------------------------------------------|------------|--------|
+|Ben&Jerry's                           | Cookie Dough, Chocolate Fudge Brownie, Netflix & Chill'd     |   465ml    |  12zl  |
+|Magnum                                | Almond                                                       |   440ml    |  12zl  |
 ## NAPOJE 
 <img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
 Pepsi      14zl                   
