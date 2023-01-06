@@ -2,6 +2,7 @@
 
 ## PIZZE
 <img src = "PizzeriaCDV/domowa.jpg" width = 300>
+
 |   Pizza:                                                                      | cena |
 |-------------------------------------------------------------------------------|------|
 |MARGHERITA  (mozzarella, oregano, sos pomidorowy)                              | 20zl |
