@@ -3,4 +3,4 @@ W naszym menu znajdziesz również świeże sałatki i kebab. Pizzeria CDV, to m
 - przyjdź do lokalu i ciesz się miłą atmosferą zajadając coś z naszego menu
 - nie masz czasu? Zamów na wynos swoją ulubioną pizzę
 
-Zapraszamy i życzymy smacznego!!!
+Zapraszamy i życzymy smacznego!!!!
