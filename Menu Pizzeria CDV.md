@@ -59,6 +59,8 @@
 |Oliwy                                  |   3zl  |
 
 ## SOSY
+<img src = "PizzeriaCDV/rodzaje-sosow-pizza.jpg" width = 300>
+
 |   Sosy   :                            |  Cena: |
 |---------------------------------------|--------|
 |Sos pomidorowy                         | 2,50zl |
