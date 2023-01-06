@@ -3,26 +3,26 @@
 ## PIZZE
 <img src = "PizzeriaCDV/domowa.jpg" width = 300>
 
-|   Pizza:                                                                      | cena |
-|-------------------------------------------------------------------------------|------|
-|MARGHERITA  (mozzarella, oregano, sos pomidorowy)                              | 20zl |
-|FUNGI (mozzarella, pieczarki, sos pomidorowy)                                  | 20zl |
-|VESUVIO (mozzarella, szynka, sos pomidorowy)                                   | 22zl |
-|CAPRICIOSA (mozzarella, szynka, pieczarki, sos pomidorowy)                     | 23zl |
-|HAWANA (mozzarella, szynka, ananas, sos pomidorowy)                            | 24zl |
-|PANCETTA (mozzarella, bekon, cebula, sos pomidorowy)                           | 26zl |
-|PEPPERONI (mozzarella, salami, sos pomidorowy)                                 | 25zl |
-|PROSCIUTTO (mozzarella, szynka parmeńska, rukola, sos pomidorowy)              | 22zl |
-|CARBONARA (mozzarella, sos pomidorowy, sos carbonara)                          | 23zl |
-|POLLO (mozzarella, gyros z kurczaka, cebula, oliwki, sos pomidorowy)           | 24zl |
-|TONNO (mozzarella, tuńczyk, cebula, pieczarki, sos pomidorowy)                 | 28zl |
-|WEGETARIAN (pieczarki, świeży pomidor, brokuły, oliwki)                        | 22zl |
-|FRUTTI DI MARE (mozzarella, owoce morza, kapary, cebula, sos pomidorowy)       | 23zl |
-|QUATTRO FORMAGGI (mozzarella, feta, camembert, lazur, sos pomidorowy)          | 23zl |
-|MEXICANA (mozzarella, salami, jalapeno, kukurydza, sos pomidorowy)             | 22zl |
-|SICILIANA (mozzarella, szynka, salami, pieczarki, cebula, sos pomidorowy)      | 25zl |
-|HOT PEPPERONI (mozzarella, bekon, salami, jalapeno, cebula, sos pomidorowy)    | 26zl |
-|FAMILIARE (mozzarella, bekon, ogórek kiszony, cebula, sos pomidorowy)          | 23zl |
+|   Pizza:                                                                      |rozmiar: | 30cm | 50cm | 60cm |
+|-------------------------------------------------------------------------------|---------|------|------|------|
+|MARGHERITA  (mozzarella, oregano, sos pomidorowy)                              |         | 20zl | 40zl | 50zl |
+|FUNGI (mozzarella, pieczarki, sos pomidorowy)                                  |         | 20zl | 40zl | 50zl |
+|VESUVIO (mozzarella, szynka, sos pomidorowy)                                   |         | 22zl | 42zl | 52zl |
+|CAPRICIOSA (mozzarella, szynka, pieczarki, sos pomidorowy)                     |         | 23zl | 43zl | 53zl |
+|HAWANA (mozzarella, szynka, ananas, sos pomidorowy)                            |         | 24zl | 44zl | 54zl |
+|PANCETTA (mozzarella, bekon, cebula, sos pomidorowy)                           |         | 26zl | 46zl | 56zl |
+|PEPPERONI (mozzarella, salami, sos pomidorowy)                                 |         | 25zl | 45zl | 55zl |
+|PROSCIUTTO (mozzarella, szynka parmeńska, rukola, sos pomidorowy)              |         | 22zl | 42zl | 52zl |
+|CARBONARA (mozzarella, sos pomidorowy, sos carbonara)                          |         | 23zl | 43zl | 53zl |
+|POLLO (mozzarella, gyros z kurczaka, cebula, oliwki, sos pomidorowy)           |         | 24zl | 44zl | 54zl |
+|TONNO (mozzarella, tuńczyk, cebula, pieczarki, sos pomidorowy)                 |         | 28zl | 48zl | 58zl |
+|WEGETARIAN (pieczarki, świeży pomidor, brokuły, oliwki)                        |         | 22zl | 42zl | 52zl |
+|FRUTTI DI MARE (mozzarella, owoce morza, kapary, cebula, sos pomidorowy)       |         | 23zl | 43zl | 53zl |
+|QUATTRO FORMAGGI (mozzarella, feta, camembert, lazur, sos pomidorowy)          |         | 23zl | 43zl | 53zl |
+|MEXICANA (mozzarella, salami, jalapeno, kukurydza, sos pomidorowy)             |         | 22zl | 42zl | 52zl |
+|SICILIANA (mozzarella, szynka, salami, pieczarki, cebula, sos pomidorowy)      |         | 25zl | 45zl | 55zl |
+|HOT PEPPERONI (mozzarella, bekon, salami, jalapeno, cebula, sos pomidorowy)    |         | 26zl | 46zl | 56zl |
+|FAMILIARE (mozzarella, bekon, ogórek kiszony, cebula, sos pomidorowy)          |         | 23zl | 43zl | 53zl |
 
 ## PIZZE VEGETARIANSKIE
 <img src = "PizzeriaCDV/pizza_wegetarianska1_mobile.jpg" width = 300>
@@ -52,6 +52,7 @@
 |Magnum                                | Almond                                                       |   440ml    |  12zl  |
 ## NAPOJE 
 <img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
+
 |   Napoje:                            | cena |
 |--------------------------------------|------|
 |Pepsi                                 | 13zl |
