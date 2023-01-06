@@ -1,2 +1,2 @@
 # PizzeriaCDV-OK
-Ten plik nalezy do galenzi main
+To jest strona naszej Pizzerii.
