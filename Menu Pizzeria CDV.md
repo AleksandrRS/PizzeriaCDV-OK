@@ -74,3 +74,4 @@
 
 ## EXCLUSIVE COMPOSITION - 38,00zl
 (szynka parmeńska, salami, kabanos, szynka, cebula, czosnek)
+ 
