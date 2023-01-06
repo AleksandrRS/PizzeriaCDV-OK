@@ -53,15 +53,15 @@
 ## NAPOJE 
 <img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
 
-|   Napoje:                            | cena |
-|--------------------------------------|------|
-|Pepsi                                 | 13zl |
-|Mirinda                               | 13zl |
-|7UP                                   | 13zl |
-|Mountain Dew                          | 13zl |
-|Woda Źródlana                         |  6zl |
-|Lipton Ice Tea                        |  9zl |
-|Sok Toma                              | 19zl |
-|Warka Radler 0%                       | 15zl |
-|Piwo: Heineken, Żywiec, Warka         | 15zl |
-|Red Bull                              |  9zl |
+|   Napoje:                            | Pojemność: | 0,33L | 0,5L | 0,85L |
+|--------------------------------------|------------|-------|------|-------|
+|Pepsi                                 |            |  9zl  | 13zl | 18zl  |
+|Mirinda                               |            |  9zl  | 13zl | 18zl  |
+|7UP                                   |            |  9zl  | 13zl | 18zl  |
+|Mountain Dew                          |            |  9zl  | 13zl | 18zl  |
+|Woda Źródlana                         |            |       |  6zl |       |
+|Lipton Ice Tea                        |            |       |  9zl | 15zl  |
+|Sok Toma                              |            |  8zl  |      | 19zl  |
+|Warka Radler 0%                       |            |       | 15zl |       |
+|Piwo: Heineken, Żywiec, Warka         |            |       | 15zl |       |
+|Red Bull                              |            |  9zl  |      |       |
