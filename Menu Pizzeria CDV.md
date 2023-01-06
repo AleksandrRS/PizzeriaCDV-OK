@@ -52,14 +52,15 @@
 |Magnum                                | Almond                                                       |   440ml    |  12zl  |
 ## NAPOJE 
 <img src = "PizzeriaCDV/kolorowe-napoje.jpg" width = 300>
-Pepsi      14zl                   
-Mirinda        14zl            
-7UP               14zl
-Mountain Dew          14zl 
-Lipton Ice Tea    6zl
-Sok Toma   9zl
-Warka Radler 0%  15zl
-Piwo: Heineken, Żywiec, Warka 15zl
-Red Bull   9zl
-
-
+|   Napoje:                            | cena |
+|--------------------------------------|------|
+|Pepsi                                 | 13zl |
+|Mirinda                               | 13zl |
+|7UP                                   | 13zl |
+|Mountain Dew                          | 13zl |
+|Woda Źródlana                         |  6zl |
+|Lipton Ice Tea                        |  9zl |
+|Sok Toma                              | 19zl |
+|Warka Radler 0%                       | 15zl |
+|Piwo: Heineken, Żywiec, Warka         | 15zl |
+|Red Bull                              |  9zl |
