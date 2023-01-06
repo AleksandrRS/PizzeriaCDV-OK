@@ -27,13 +27,13 @@
 ## PIZZE VEGETARIANSKIE
 <img src = "PizzeriaCDV/pizza_wegetarianska1_mobile.jpg" width = 300>
 
-|   Pizza:                                                                      | 30cm |
-|-------------------------------------------------------------------------------|------|
-|MARGHERITA vega (mozzarella, oregano, sos pomidorowy)                          | 20zl |
-|FUNGI vega (mozzarella, pieczarki, sos pomidorowy)                             | 20zl |
-|VESUVIO vega (mozzarella, parmezan, sos pomidorowy)                            | 22zl |
-|CAPRICIOSA vega (mozzarella, oliwa, pieczarki, sos pomidorowy)                 | 23zl |
-|HAWANA vega (mozzarella, ananas, sos pomidorowy)                               | 24zl |
+|   Pizza:                                                                      |rozmiar: | 30cm | 50cm | 60cm |
+|-------------------------------------------------------------------------------|---------|------|------|------|
+|MARGHERITA vega (mozzarella, oregano, sos pomidorowy)                          |         | 20zl | 40zl | 50zl |
+|FUNGI vega (mozzarella, pieczarki, sos pomidorowy)                             |         | 20zl | 40zl | 50zl |
+|VESUVIO vega (mozzarella, parmezan, sos pomidorowy)                            |         | 22zl | 42zl | 52zl |
+|CAPRICIOSA vega (mozzarella, oliwa, pieczarki, sos pomidorowy)                 |         | 23zl | 43zl | 53zl |
+|HAWANA vega (mozzarella, ananas, sos pomidorowy)                               |         | 24zl | 44zl | 54zl |
 
 
 ## SAŁATKI 
