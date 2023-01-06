@@ -52,6 +52,8 @@
 |Magnum                                | Almond                                                       |   440ml    |  12zl  |
 
 ## DODATKI
+ <img src = "PizzeriaCDV/dodatki.jpg" width = 300>
+ 
 |   Dodatki:                            |  Cena: |
 |---------------------------------------|--------|
 |Pesto czerwone                         |   3zl  |
